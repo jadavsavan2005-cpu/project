@@ -14,6 +14,7 @@ print("\n")
 
 print(list(student.values())) #returns all values
 print("\n")
+print("welcome")
 
 print(list(student.items())) #returns all(key,val)pairs as tuples
 print("\n")
